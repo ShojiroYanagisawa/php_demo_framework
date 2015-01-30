@@ -1,2 +1,3 @@
-# php_demo_framework
-php demo framework to develop web application.
+# php デモプレームワーク
+
+**「パーフェクトPHP」**の**「Part3 実践Webアプリケーション」**のソース。
